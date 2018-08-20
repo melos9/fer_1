@@ -5,8 +5,7 @@
 
 Fer+、fer2013のデータセットでモデル学習とテストを行います。
 
-学習:python learn.py
-テスト:python test.py
+学習:python learn.py  //  テスト:python test.py
 
 データセットのcsvファイルはソースと同じディレクトリにおいてください。
 学習されたモデルを保存するためのsaved_modelも同じディレクトリにおいてください。
